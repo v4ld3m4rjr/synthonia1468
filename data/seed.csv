@@ -2,5 +2,3 @@ date,modality,type,duration_min,sRPE,exercise,sets,reps,load_kg,rest_s,notes
 2025-08-01,forca,treino,60,5,Back Squat,5,5,80,180,força máxima
 2025-08-02,corrida,treino,40,6,,,,,intervalado
 2025-08-03,bike,treino,50,4,,,,,cadência
-2025-08-04,forca,treino,45,7,Deadlift,4,6,90,150,volume alto
-2025-08-05,funcional,treino,35,5,,,,,WOD mixto
