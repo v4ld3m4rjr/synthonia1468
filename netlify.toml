@@ -1,0 +1,20 @@
+# [AI Generated] Data: 19/03/2024
+# Descrição: Configuração do Netlify para deploy
+# Gerado por: Cursor AI
+# Versão: Next.js 14.2.5
+
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "20"
+  NPM_FLAGS = "--legacy-peer-deps"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
