@@ -7,7 +7,7 @@
   "/(dashboard)/page": "app/(dashboard)/page.js",
   "/(dashboard)/rehab/page": "app/(dashboard)/rehab/page.js",
   "/(dashboard)/recovery/page": "app/(dashboard)/recovery/page.js",
-  "/(dashboard)/treinos/page": "app/(dashboard)/treinos/page.js",
   "/(dashboard)/settings/page": "app/(dashboard)/settings/page.js",
+  "/(dashboard)/treinos/page": "app/(dashboard)/treinos/page.js",
   "/page": "app/page.js"
 }

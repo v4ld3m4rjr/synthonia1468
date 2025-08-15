@@ -1,5 +1,5 @@
 // [AI Generated] Data: 19/03/2024
-// Descrição: Correção do layout principal com imports e estrutura adequada
+// Descrição: Correção do layout principal com importação simples de CSS
 // Gerado por: Cursor AI
 // Versão: Next.js 14.2.5, TypeScript 5.6.2
 
